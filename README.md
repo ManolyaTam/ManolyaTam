@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## blog posts 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Manolya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManolyaTam&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManolyaTam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
