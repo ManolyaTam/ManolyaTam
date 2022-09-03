@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h5 style="font-family: consolas">Hi there!👋 this is Manolya, welcome to my profile</h5><br>
+    <h4><samp>Hi there!👋 this is Manolya, welcome to my profile<samp></h4><br>
     <img src="./img/cat.webp" width=150 style="border-radius: 10px">
 </div>
 <!-- ![Picture](./img/beluga.webp){width:"150"} -->
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<h4 style="font-family: consolas"> My stats</h4>
+<h3 style="font-family: consolas"> My stats</h4>
 
 <!-- [![Manolya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManolyaTam&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
