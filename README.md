@@ -3,7 +3,6 @@
     <h4><samp>Hi there!👋 this is Manolya, welcome to my profile<samp></h4><br>
     <img src="./img/cat.webp" width=150 style="border-radius: 10px">
 </div>
-<!-- ![Picture](./img/beluga.webp){width:"150"} -->
 
 <!-- 
 Here are some ideas to get you started:
@@ -20,9 +19,6 @@ Here are some ideas to get you started:
 ---
 <h3 style="font-family: consolas"> My stats</h4>
 
-<!-- [![Manolya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManolyaTam&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManolyaTam&layout=compact&theme=dracula&card_width=80)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ManolyaTam&show_icons=true&hide=count_private=true&theme=dracula" alt="GitHub stats">
