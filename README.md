@@ -1,7 +1,9 @@
 
 <div align="center">
-<h2 align="left">Hi 👋! My name is Manolya and I'm a Software Developer</h2>
-<img align="right" height="150" src="./img/cat.webp"  />
+ <h1>Hi 👋! I'm <span style="color:#f78fb3;">Manolya</span></h1>
+  <p>A passionate <strong>Software Developer</strong> exploring new technologies and building amazing projects!</p>
+  <img src="./img/cat.webp" alt="A cute cat" height="150" style="border-radius:50%; margin: 10px;" />
+  
     
 ###
 
