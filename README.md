@@ -15,7 +15,7 @@
 
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,regex,php,js,html,css,tailwind,materialui,react,nodejs,expressjs,firebase,mongodb,mysql,java,cs,jest,github,gitlab,npm,anaconda,vscode,figma,sklearn,unity,blender&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,regex,php,js,html,css,tailwind,materialui,react,threejs,nodejs,expressjs,firebase,mongodb,mysql,java,cs,jest,github,gitlab,npm,anaconda,vscode,figma,sklearn,unity,blender&perline=13)](https://skillicons.dev)
 
 ###
 
